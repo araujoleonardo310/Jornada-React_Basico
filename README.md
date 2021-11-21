@@ -36,37 +36,37 @@ PROGRAMAÇÂO DE ESTUDO: React Básico
 
 - [x] Props e organização dos componentes - Parte 3
 
-- [] Trabalhando com inputs de texto
+- [ ] Trabalhando com inputs de texto
 
-- [] Fluxo de dados, componentes e state vs props
+- [ ] Fluxo de dados, componentes e state vs props
 
-- [] Decidir onde o estado vive é importante (React Developer Tools)
+- [ ] Decidir onde o estado vive é importante (React Developer Tools)
 
-- [] Eventos Sintéticos do React (SyntheticEvent)
+- [ ] Eventos Sintéticos do React (SyntheticEvent)
 
-- [] Configurando o GIT e SSH Keys no Windows
+- [ ] Configurando o GIT e SSH Keys no Windows
 
-- [] Configurando o GIT e SSH Keys no Ubuntu
+- [ ] Configurando o GIT e SSH Keys no Ubuntu
 
-- [] Deploy do nosso projeto na Netlify
+- [ ] Deploy do nosso projeto na Netlify
 
-- [] Aviso sobre a próxima aula e React Hooks (não se preocupe se não entender)
+- [ ] Aviso sobre a próxima aula e React Hooks (não se preocupe se não entender)
 
-- [] Migrando para React Hooks
+- [ ] Migrando para React Hooks
 
-- [] Mais sobre this.setState em classes
+- [ ] Mais sobre this.setState em classes
 
-- [] Introdução à testes com o Jest e Testing Library - Parte 1
+- [ ] Introdução à testes com o Jest e Testing Library - Parte 1
 
-- [] Introdução à testes com o Jest e Testing Library - Parte 2
+- [ ] Introdução à testes com o Jest e Testing Library - Parte 2
 
-- [] Introdução à testes com o Jest e Testing Library - Parte 3
+- [ ] Introdução à testes com o Jest e Testing Library - Parte 3
 
-- [] Introdução à testes com o Jest e Testing Library - Parte 3
+- [ ] Introdução à testes com o Jest e Testing Library - Parte 3
 
-- [] Eslint, prettier, editorconfig e prop-types
+- [ ] Eslint, prettier, editorconfig e prop-types
 
-- [] ERRATA: defaultProps e destructuri
+- [ ] ERRATA: defaultProps e destructuri
 
  
 <br>
